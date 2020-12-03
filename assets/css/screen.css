@@ -904,3 +904,88 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+.featured-article-img-credits{
+	opacity: 50%;
+	font-size: 8px;
+}
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+.figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.70em;
+	overflow: hidden;
+	max-height: 4em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+.zoom{
+	transition: transform .2s; 
+}
+.zoom:hover {
+  transform: scale(1.2); 
+}
+.zoom-bookmark{
+	transition: transform .2s; 
+}
+.zoom-bookmark:hover {
+  transform: scale(1.01); 
+  box-shadow: 0 5px 5px rgba(0,0,0,0.1);
+}
