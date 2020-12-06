@@ -4,6 +4,7 @@ title:  "An Introduction to Artificial Intelligence and its applications"
 author: bharathikannan
 categories: [Artificial Intelligence, Machine learning]
 image: assets/images/introduction-to-ai-images/robot-img.jpg
+description: "This is an introduction blog to AI, Machine learning, Deep learning, Data science and AI applications."
 featured: true
 ---
 
@@ -17,7 +18,7 @@ featured: true
     <div class="row">
         <div class="col">
             <center>
-                <img class="img-fluid" src="../assets/images/introduction-to-ai-images/go.jpeg"
+                <img class="img-fluid zoomimage-light zoomimage-light" src="../assets/images/introduction-to-ai-images/go.jpeg"
                     alt="ai-intro-header" width="50%"></center>
         </div>
     </div>
@@ -51,7 +52,7 @@ AI reduces the human effort as much as possible and makes our lives easier.
 Machine Learning is a subset of AI. We know that AI is like mimicking human abilities. Any technique can be used to solve this problem. In that Machine learning is the most commonly used method.
 
 <center>
-<img class="featured-image img-fluid " src="../assets/images/introduction-to-ai-images/ml.JPG" alt="ml" height="350px" width="350px">
+<img class="img-fluid zoomimage-light zoomimage-light" src="../assets/images/introduction-to-ai-images/ml.JPG" alt="ml" height="350px" width="350px">
 </center>
 
 > Machine learning is a field of study that gives computers the ability to learn without being explicitly(clearly) programmed.
@@ -62,7 +63,7 @@ Instead of writing the logic of the code you will feed in the data to the algori
 
 Deep learning is a branch of machine learning which is completely based on **artificial neural networks**.
 <center>
-<img class="featured-image img-fluid" src="../assets/images/introduction-to-ai-images/dl.JPG" alt="dl"  height="350px" width="350px">
+<img class="featured-image img-fluid zoomimage-light zoomimage-light" src="../assets/images/introduction-to-ai-images/dl.JPG" alt="dl"  height="350px" width="350px">
 </center>
 
 > Neural Network is going to mimic the human brain.
@@ -73,20 +74,20 @@ Neural networks are used to solve complex problems people face in real-world sit
 
 <center><h6><u>Neural Network Structure</u></h6></center>
 <center>
-<img class="featured-image img-fluid" src="../assets/images/introduction-to-ai-images/neural-network.png" alt="ai-intro-header" width="100%">
+<img class="featured-image img-fluid zoomimage-light" src="../assets/images/introduction-to-ai-images/neural-network.png" alt="ai-intro-header" width="100%">
 </center>
 
 ### **Why Deep Learning?**
 
 Deep learning is more powerful when it comes to complex problems and its **performance increases** when we have more and more data while normal machine learning algorithms don't perform well.
 
-<center><img class="featured-image img-fluid" src="../assets/images/introduction-to-ai-images/ml-dl-model-performance.png" alt="dl" height="550px" width="500px"></center>
+<center><img class="featured-image img-fluid zoomimage-light" src="../assets/images/introduction-to-ai-images/ml-dl-model-performance.png" alt="dl" height="550px" width="500px"></center>
 
 ### **What is Data Science?**
 
 In our modern world data is produced in huge chunks. We need to handle and process the data with minimum effort. This **processing and handling of data** is called data science.
 <center>
-<img class="featured-image img-fluid" src="../assets/images/introduction-to-ai-images/datascience.JPG" alt="ds"  height="350px" width="350px">
+<img class="featured-image img-fluid zoomimage-light" src="../assets/images/introduction-to-ai-images/datascience.JPG" alt="ds"  height="350px" width="350px">
 </center>
 
 > Data science is a field of study of data that involves getting, storing and analyzing data effectively to extract useful information from structured or unstructured data.
@@ -102,7 +103,7 @@ Every imdustry has a high demand for Artificial Intelligence. Some examples in o
 <div class="row">
     <div class="col">
         <center>
-        <img class="img-fluid" src="../assets/images/introduction-to-ai-images/facial-recognition-scan.jpg"
+        <img class="img-fluid zoomimage-light" src="../assets/images/introduction-to-ai-images/facial-recognition-scan.jpg"
             alt="ai-intro-header" width="50%"></center>
     </div> 
 </div>
@@ -123,7 +124,7 @@ Every imdustry has a high demand for Artificial Intelligence. Some examples in o
     <div class="row">
         <div class="col">
             <center>  
-                <img class="img-fluid" src="../assets/images/introduction-to-ai-images/search-engine.jpg"
+                <img class="img-fluid zoomimage-light" src="../assets/images/introduction-to-ai-images/search-engine.jpg"
                     alt="ai-intro-header" width="50%">
                 </center>
         </div>
@@ -161,3 +162,4 @@ They are not just limited to personal assistants and online platforms but it is 
 ### **Summary**
 
 There are huge advantages and some disadvantage in AI. Every technology has some disadvantage and we need to make sure that we are using it in the right way. Still now there are no AI applications like skynet or robots that are dangerous to us. We need to use this technology is a posotive way and make this world a better place.
+

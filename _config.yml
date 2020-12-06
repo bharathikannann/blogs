@@ -12,15 +12,19 @@ disqus: 'bharathikannann'
 #mailchimp-list: 'https://gmail.us7.list-manage.com/subscribe/post?u=3cc170768d91e4ad408c93b89&amp;id=a42a2476d7'
 include: ["_pages"]
 permalink: /:title/
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
 
 # Authors
 authors:
   bharathikannan:
     name: Bharathi kannan
     display_name: Bharathi kannan
+    avatar: 'assets/images/bharathikannan.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: bharathikannan1311@gmail.com
-    web: https://bharathikannann.github.io
+    web: https://bharathikannann.github.io/blogs/about.html
     twitter: https://twitter.com/bkn1311?s=08
     description: "I publish blogs related to Computer Science, AI and Machine Learning. Stay tuned for more posts. "
   john:

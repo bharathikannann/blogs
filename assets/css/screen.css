@@ -976,16 +976,17 @@ iframe {
 	font-size: 0.75em;
 	margin-top: 0.25em;
 }
-.zoom{
+/* .zoom{
 	transition: transform .2s; 
 }
 .zoom:hover {
   transform: scale(1.2); 
-}
-.zoom-bookmark{
-	transition: transform .2s; 
+  backface-visibility: hidden;
+} */
+/* .zoom-bookmark{
+    transition: transform .2s;
 }
 .zoom-bookmark:hover {
   transform: scale(1.01); 
-  box-shadow: 0 5px 5px rgba(0,0,0,0.1);
-}
+  box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+} */

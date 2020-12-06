@@ -4,7 +4,8 @@ title:  "An Introduction to Machine Learning and its types"
 author: bharathikannan
 categories: [Machine learning,Reinforcement learning]
 image: assets/images/machine-learning-images/ml-robo.jpg
-featured: true
+description: "This is an introduction blog to Machine learning and its types (Supervised learning,Unsupervised learning and Reinforcement Learning)."
+featured: False
 ---
 
 > Machine learning is a field of study that gives computers the ability to learn without being explicitly(clearly) programmed.
@@ -32,7 +33,7 @@ Supervised learning is when the model getting **trained on a labelled dataset**
 Labelled dataset is one which has both input(X) and output(Y) parameters.
 
 <center>
-<img class="img-fluid" src="../assets/images/machine-learning-images/supervised-learning.png"/>
+<img class="img-fluid zoomimage-light" src="../assets/images/machine-learning-images/supervised-learning.png"/>
 </center>
 
 <br>
@@ -59,12 +60,13 @@ It is called supervised learning because it can be thought of as a teacher super
 
 ## **Unsupervised learning**
 
-- Unsupervised learning allows us to approach problems with little or no idea what our outputs should look like.
-- The main goal is to find structure or patterns in the underlying data.
-- Here there will be only **unlabelled data**(inputs-X only)
-- It is called unsupervised learning because there are no correct answers in the training dataset.
+Unsupervised learning allows us to approach problems with little or no idea what our outputs should look like.
 
-<center><img class="featured-image img-fluid" src="../assets/images/machine-learning-images/unsupervised-learning.png" /></center>
+The main goal is to find structure or patterns in the underlying data.<br>
+Here there will be only **unlabelled data**(inputs-X only)<br>
+It is called unsupervised learning because there are no correct answers in the training dataset.
+
+<center><img class="featured-image img-fluid zoomimage-light" src="../assets/images/machine-learning-images/unsupervised-learning.png" /></center>
 
 - Applications
     - Social Network Analysis
@@ -112,7 +114,7 @@ For understanding this lets start with an example
 Imagine you are playing a supermario videogame for the first time and given the controller for you. You first don't know anything about the game and you will start to interact with the game by pressing the buttons.
 
 <center>
-<img class="img-fluid" src="../assets/images/machine-learning-images/super-mario.gif" height="350px">
+<img class="img-fluid zoomimage-light" src="../assets/images/machine-learning-images/super-mario.gif" height="350px">
 </center>
 <br>
 You press right and get the coin you will be rewarded(+1) and again you press right, you fall and gets out(-1 reward).
@@ -128,7 +130,7 @@ Reinforcement learning is just the computational approach of solving this proble
 ### **Reinforcement learning processes**
 
 <center>
-<img class="img-fluid" style="width:528px" src="../assets/images/machine-learning-images/reinforcement-learning.png" />
+<img class="img-fluid zoomimage-light" style="width:528px" src="../assets/images/machine-learning-images/reinforcement-learning.png" />
 </center><br>
 
 The agent receives the first state **S0** from the environment(First frame of the game)
@@ -141,6 +143,6 @@ Then we will receive **R1** a reward based on that action **A0** and its mai
 
 This process continues until we gets out. The agent plays more and more games and improves itself.
 
-<center><img class="img-fluid" style="width:800px" src="../assets/images/machine-learning-images/reinforcement-learning-gif.gif"/></center><br>
+<center><img class="img-fluid zoomimage-light" style="width:800px" src="../assets/images/machine-learning-images/reinforcement-learning-gif.gif"/></center><br>
 
 This is the main concept in reinforcement learning.
