@@ -146,3 +146,4 @@ This process continues until we gets out. The agent plays more and more games an
 <center><img class="img-fluid zoomimage-light" style="width:800px" src="../assets/images/machine-learning-images/reinforcement-learning-gif.gif"/></center><br>
 
 This is the main concept in reinforcement learning.
+

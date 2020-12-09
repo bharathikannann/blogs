@@ -99,27 +99,30 @@ Every imdustry has a high demand for Artificial Intelligence. Some examples in o
 - *Smart assistants* like Amazon's Alexa, Google assistant, Apple's siri use AI.
 - *Chatbots* use AI to understand the meaning of the sentense and be more human like.
 - *Facial recognition* in our smart phone.
+
 <div class="container">
-<div class="row">
-    <div class="col">
-        <center>
-        <img class="img-fluid zoomimage-light" src="../assets/images/introduction-to-ai-images/facial-recognition-scan.jpg"
-            alt="ai-intro-header" width="50%"></center>
-    </div> 
+    <div class="row">
+        <div class="col">
+            <center>
+            <img class="img-fluid zoomimage-light" src="../assets/images/introduction-to-ai-images/facial-recognition-scan.jpg"
+                alt="ai-intro-header" width="50%"></center>
+        </div> 
+    </div>
+    <div class="row">
+        <div class="col"><center>
+            <a class="featured-article-img-credits" href='https://www.freepik.com/vectors/technology'>Technology vector created by gstudioimagen - www.freepik.com</a>
+            </center>
+        </div>   
+    </div>
 </div>
-<div class="row">
-    <div class="col"><center>
-        <a class="featured-article-img-credits" href='https://www.freepik.com/vectors/technology'>Technology vector created by gstudioimagen - www.freepik.com</a>
-        </center>
-    </div>   
-</div>
-</div>
+
 - In Netflix movie *recommendations* to know what you mostly like.
 - *Google maps* to predict the fastest route.
 - *Email spam* filtering.
 - Social media platforms use AI to give users a *personalised newsfeed* and they also use it to show the relevant ads according to your interest.
 - *E-commerce websites* such as amazon and flipkart uses AI to show the products according to your interest in their homepage.
 - *Google search engine* uses AI to find the relevent search results to your queries.
+
 <div class="container">
     <div class="row">
         <div class="col">
