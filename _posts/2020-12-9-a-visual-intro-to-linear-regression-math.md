@@ -8,14 +8,14 @@ description: "Linear Regression"
 featured: False
 ---
 
-## A little intro to types of Machine Learning Algorithms
+### A little intro to types of Machine Learning Algorithms
 
 - There are three main types of Machine learning algorithms
     - Unsupervised learning
     - Reinforcement learning
     - Supervised learning
 
-## Supervised learning
+### Supervised learning
 
 Supervised learning is when model is getting **trained on a labelled dataset**. Labelled dataset is one which has both *input(X)* and *output(Y)* parameters.
 
@@ -39,7 +39,7 @@ Here we are trying to map input variables into **discrete categories**.
 
 For Example<br> Given a picture of a person, We have to predict their gender (Male/Female) (Discrete).
 
-## Linear Regression
+### Linear Regression
 
 Linear regression is one of the **simplest machine learning model** out there and it is the first type of regression to learn. It's simplicity makes it a *great stepping stone to learn more complex machine learning algorithms*. In this post we will explore the foundation of linear regression.
 
@@ -59,7 +59,7 @@ where **y** is the output, **x** is the input, **m** is the slope of the line an
 
  The main goal is to find the best fit line between **x** and **y** by adjusting the coefficients **m** and **c**. We will use mean squared error and gradient descent approach to solve this problem.
 
-## Training Dataset
+### Training Dataset
 
 Let take a simple training dataset with one input feature(*area*) and one output feature(*price*). 
 
@@ -80,7 +80,7 @@ Our goal here is to find the best fit line which maps the input values to its co
     </div>
 </div>
 
-## Hypothesis function
+### Hypothesis function
 
 The mapping function is also known as **hypothesis** function. 
 
@@ -96,7 +96,7 @@ A simple interactive visualization to understand what weights and biases are doi
 
 You can see that the **weight** changes the *slope* of the line and the **bias** changes the *starting point* of the line.
 
-## Cost Function
+### Cost Function
 
 **Accuracy** of our hypothesis function can be measured by using cost function. It is nothing but the error function.
 
@@ -150,7 +150,7 @@ Our objective is to get the best possible line. The best possible line will be s
 
 - **Minimize(Cost(weight,bias))**
 
-## Minimizing Cost Function intuition
+### Minimizing Cost Function intuition
 
 <div>
     <div class="row">
@@ -174,7 +174,7 @@ Our objective is to get the best possible line. The best possible line will be s
 
 Imagine you are stuck in the mountains and from there you need to go to the bottom of the mountain (*i.e. minimum cost*). There is heavy fog such that the visibility is extremely low. But how do we find where is the bottom of the mountain. A simple brute-force approach will be to go to all the places of the mountain from the starting point and check for bottom (*i.e. minimum of the cost function*). But it is not efficient and time consuming. The efficient solution will be to find **which direction** takes you to the bottom and move down in that direction. You should also determine how **long** your each step should be. This approach of minimizing the cost function is called **Gradient Descent**.
 
-## Gradient Descent
+### Gradient Descent
 
 Gradient descent is an optimization algorithm used to find the values of parameters (*weights & bias*) that **minimizes** a cost function. 
 
@@ -204,7 +204,7 @@ A **derivative***(gradient)* is the slope of a graph at any given point and it w
 
 On each iteration, we update the parameters in the opposite direction of the gradient of the cost function w.r.t the parameters where the gradient gives the direction of the steepest ascent. **Learning rate(∝)** tells us how big your each step should be on each iteration to reach the minimum.
 
-### **Learning Rate (∝)**
+#### **Learning Rate (∝)**
 
 > The size of the step we take on each iteration to reach the minimum is called learning rate.
 
