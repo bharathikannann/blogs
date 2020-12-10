@@ -4,7 +4,7 @@ title:  "An Introduction to Machine Learning and its types"
 author: bharathikannan
 categories: [Machine learning,Reinforcement learning]
 image: assets/images/machine-learning-images/ml-robo.jpg
-description: "This is an introduction blog to Machine learning and its types (Supervised learning,Unsupervised learning and Reinforcement Learning)."
+description: "This is an introduction blog to Machine learning and its types (Supervised ,Unsupervised and Reinforcement Learning). Machine learning is a field of study that gives computers the ability to learn without being explicitly programmed."
 featured: False
 ---
 

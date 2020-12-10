@@ -21,6 +21,7 @@ I am passionate about Artificial Intelligence, Machine Learning, Blockchain and 
 <h4>Questions or bug reports?</h4>
 
 <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p> -->
+<p class="light-text">Powered by Jekyll and Mediumish</p>
 
 </div>
 

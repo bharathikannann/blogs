@@ -3,9 +3,9 @@ layout: post
 title:  "A Visual Intro to Linear Regression Math"
 author: bharathikannan
 categories: [Machine learning]
-image: assets/images/linear-regression-math/best-fit-line-min.png
-description: "Linear Regression"
-featured: False
+image: assets/images/linear-regression-math/linear-regression-banner.png
+description: "An Interactive and Visual guide to mastering linear regression math. It is one of the most popular machine learning algorithm. It's simplicity makes it a great stepping stone to learn more complex algorithms."
+featured: True
 ---
 
 ### A little intro to types of Machine Learning Algorithms
@@ -79,7 +79,7 @@ Our goal here is to find the best fit line which maps the input values to its co
         </div>
     </div>
 </div>
-
+<br>
 ### Hypothesis function
 
 The mapping function is also known as **hypothesis** function. 
@@ -346,7 +346,7 @@ We will apply this for both weight and bias simultaneously for each iteration. T
         </div>
     </div>
 </div>
-
+<br>
 ### Derivative of cost function w.r.t to weight and bias
 
 Derivative of cost function w.r.t weight
@@ -384,7 +384,7 @@ $$w ^{new} = w^{old} - ∝ \frac{1}{m} \sum_{i=1}^m \Big[\left (w \cdot x^{(i)} 
 The updating equation for bias will be
 
 $$b ^{new} = b^{old} - ∝ \frac{1}{m} \sum_{i=1}^m \Big[\left (w \cdot x^{(i)} + b - y^{(i)}\right) \Big] $$
-
+<br>
 ### Experimenting with different **$$\alpha$$** values
 
 Here are some visualizations for different alpha values. This is a simple example to illustrate the learning rate **($$\alpha$$**). So here only weights are taken and no bias value is considered in the hypothesis function. 
@@ -431,7 +431,7 @@ The graph shows the plot between the parameter(weight) and the cost function. If
         </div>
     </div>
 </div>
-
+<br>
 ### Predicting for new data
 
 Once we have learned our weight and bias which gives us the best fit line we can use that for future predictions.
