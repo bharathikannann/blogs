@@ -979,6 +979,10 @@ iframe {
 
 @media (min-width: 600px){
 .geogebraui{
-    height: 500px;
+    height: 500;
 }
+}
+.light-text{
+	opacity: 60%;
+	font-size: 12px;
 }
