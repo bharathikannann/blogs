@@ -8,48 +8,46 @@ description: "An Interactive and Visual guide to mastering linear regression mat
 featured: True
 ---
 
-### A little intro to types of Machine Learning Algorithms
+#### A little intro to types of Machine Learning Algorithms
 
 - There are three main types of Machine learning algorithms
     - Unsupervised learning
     - Reinforcement learning
     - Supervised learning
 
-### Supervised learning
+#### Supervised learning
 
 Supervised learning is when model is getting **trained on a labelled dataset**. Labelled dataset is one which has both *input(X)* and *output(Y)* parameters.
 
-**Example** 
-
-Given the *area* of the *houses*(input parameter X) and their *prices*(output parameter Y) predict their price for the new area. Here we have both input and output parameters and the model learns to find some patterns from the data and uses that model for *future predictions*.
+**Example** <br>Given the *area* of the *houses*(*input parameter X*) and their *prices*(*output parameter Y*) predict the price for the new area. Here we have both input and output parameters and the model learns to find some patterns from the data and uses that model for *future predictions*.
 
 - It is further classified into
     - Regression
     - Classification
 
-### Regression
+#### Regression
 
 Here we are trying to predict results within a **continuous output**, meaning that we are trying to map input variables to some continuous function.
 
-For Example<br> Given a picture of a person, We have to predict his/her age(Continuous).
+For Example<br> Given the picture of a person, We have to predict his/her age(*Continuous*).
 
-### Classification
+#### Classification
 
 Here we are trying to map input variables into **discrete categories**.
 
-For Example<br> Given a picture of a person, We have to predict their gender (Male/Female) (Discrete).
+For Example<br> Given the picture of a person, We have to predict their gender(*Male/Female*).
 
 ### Linear Regression
 
 Linear regression is one of the **simplest machine learning model** out there and it is the first type of regression to learn. It's simplicity makes it a *great stepping stone to learn more complex machine learning algorithms*. In this post we will explore the foundation of linear regression.
 
-> Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data.
+> Linear regression attempts to model the relationship between two variables by fitting a linear equation to  the observed data.
 
-They explain the relationship between **one dependent variable** and **one or more independent variable**. Here the dependent variable is the ***output**(Y)* and the independent variable is the ***input**(X)*. Remember it as features, there can be only one output feature(Y) and many input features(X).
+They explain the relationship between **one dependent variable** and **one or more independent variable**. Here the dependent variable is the ***output**(Y)* and the independent variable is the ***input**(*X*)*. Remember it as features, there can be only one output feature(*Y*) and many input features(*X*).
 
-As an example, <br> For predicting the price of the house, consider input features as *area, place, no of rooms and age of the house* and output feature as the *price*. It is a multiple linear regression since there is more than one input feature(X). If we consider a single input feature it is a simple linear regression.
+As an example, <br> For predicting the price of the house, consider input features as *area, place, no of rooms and age of the house* and output feature as *price*. It is a multiple linear regression since there is more than one input feature(*X*). If we consider a single input feature it is a simple linear regression.
 
-Here we will just use one input feature(area) as an example to explain how linear regression works.
+Here we will just use one input feature(*area*) as an example to explain how linear regression works.
 
 A simple equation for linear regression can be defined as
 
@@ -57,9 +55,9 @@ $$y = m \cdot x+c$$
 
 where **y** is the output, **x** is the input, **m** is the slope of the line and **c** is the bias coefficient. 
 
- The main goal is to find the best fit line between **x** and **y** by adjusting the coefficients **m** and **c**. We will use mean squared error and gradient descent approach to solve this problem.
+ The main goal here is to find the best fit line between **x** and **y** by adjusting the coefficients **m** and **c**. We will use mean squared error and gradient descent approach to solve this problem.
 
-### Training Dataset
+#### Training Dataset
 
 Let take a simple training dataset with one input feature(*area*) and one output feature(*price*). 
 
@@ -80,6 +78,7 @@ Our goal here is to find the best fit line which maps the input values to its co
     </div>
 </div>
 <br>
+
 ### Hypothesis function
 
 The mapping function is also known as **hypothesis** function. 
@@ -159,11 +158,11 @@ This is also called mean squared error.
 
 Our objective is to get the best possible line. The best possible line will be such that the cost function is **least**.
 
-### **Our Goal**
+#### Our Goal
 
 - **Minimize(Cost(weight,bias))**
 
-### Minimizing Cost Function intuition
+#### Minimizing Cost Function intuition
 
 <div>
     <div class="row">
@@ -213,11 +212,26 @@ Gradient descent is an optimization algorithm used to find the values of paramet
 
 > There are two things that you should know to reach the minima. Which way to go and how big a step to take.
 
-A **derivative***(gradient)* is the slope of a graph at any given point and it will give us the *direction* to move towards the minimum. It only takes into the account of first derivative when updating the parameters. So it is a *first-order optimization algorithm*.
+A **derivative***(gradient)* is the slope of a graph at any given point and it will give us the *direction* to move towards the minimum. It only takes into the account of first derivative. So it is a *first-order optimization algorithm*.
 
 On each iteration, we update the parameters in the opposite direction of the gradient of the cost function w.r.t the parameters where the gradient gives the direction of the steepest ascent. **Learning rate(∝)** tells us how big your each step should be on each iteration to reach the minimum.
 
-#### **Learning Rate (∝)**
+#### The whole process representation
+<div>
+    <div class="row">
+        <div class="col">
+            <center>  
+                <img class="img-fluid zoomimage-light" src="../assets/images/linear-regression-math/whole-process.png"
+                    alt="ai-intro-header" width="100%">
+                </center>
+        </div>
+    </div>
+</div>
+<br>
+
+When we update parameters(*w&b*) for many iterations we can decrease the cost function.
+
+#### Learning Rate (∝)
 
 > The size of the step we take on each iteration to reach the minimum is called learning rate.
 
@@ -225,12 +239,12 @@ If we use higher learning rate it will take larger steps but there is a risk of 
 
 **∝** is a **hyperparameter** because there is no formula to get the best alpha value. We can try out some values and see which gives us the best result.
 
-### **Algorithm**
+#### Algorithm
 
 1. Initialize weight(**w**) and bias(**b**) to random values. We can even initialize it to zeros in this case.
 2. Choose the number of iterations.
 3. Choose learning rate(**∝**). It should not be too big or too small. 
-4. On each iteration, take the derivative of the cost function w.r.t each parameters (*weight and bias*) and then update the parameters (*weight and bias*) as following
+4. On each iteration, take the derivative of the cost function w.r.t each parameters (*w&b*) and then update the parameters (*w&b*) as following
 
 $$w ^{new} = w^{old} - ∝ \frac{\partial Cost(\theta)}{\partial w}$$
 
@@ -271,13 +285,13 @@ If we update parameters on each iteration by this formula we can decrease the co
 
 
 
-### A simple explanation of how the gradient descent formula works
+#### A simple explanation of how the gradient descent formula works
 
 The general formula for gradient descent is 
 
 $$\theta ^{new} = \theta^{old} - ∝ \frac{\partial Cost(\theta)}{\partial \theta}$$
 
-### Case 1:
+#### Case 1:
 
 Lets assume we have **∝** as **0.1** and initial **$$\theta$$** as **0.5**. We can take the derivative (*slope*) of cost function w.r.t $$\theta$$ at that point. We will get a negative slope. Lets assume you get slope value as **-1**.
 
@@ -301,7 +315,7 @@ $$\theta^{new} = 0.6 $$
 
 You can see that you are moving in the right direction where your cost is minimizing.
 
-### Case 2:
+#### Case 2:
 
 If you are at the right side of the curve the slope will be positive. Assume your $$\theta$$ is at 3.0, **∝** as **0**.**1** and you get a positive slope of **1**.
 
@@ -329,25 +343,12 @@ The main concept here is
 
 - If the derivative is positive then subtracting it will decrease the  $$\theta$$
     - $$\theta$$ = $$\theta$$ - ( $$\alpha \cdot$$ positive slope) here $$\theta$$ **decreases**.
-- If the derivative is negative the subtracting it will increase the  $$\theta$$
+- If the derivative is negative then subtracting it will increase the  $$\theta$$
     - $$\theta$$ = $$\theta$$ - ( $$\alpha \cdot$$ negative slope) here $$\theta$$ **increases**.
 
 We will apply this for both weight and bias simultaneously for each iteration. This is the parameter updating step. We will repeat this step for the given number of iterations.
 
-### The whole process representation
-
-<div>
-    <div class="row">
-        <div class="col">
-            <center>  
-                <img class="img-fluid zoomimage-light" src="../assets/images/linear-regression-math/whole-process.png"
-                    alt="ai-intro-header" width="100%">
-                </center>
-        </div>
-    </div>
-</div>
-<br>
-### Derivative of cost function w.r.t to weight and bias
+#### Derivative of cost function w.r.t to weight and bias
 
 Derivative of cost function w.r.t weight
 
@@ -377,19 +378,24 @@ $$ =  \frac{\partial \frac{1}{2m} \sum_{i=1}^m \left(w \cdot x^{(i)} + b - y^{(i
 
 $$\frac{\partial Cost(\theta)}{\partial b} =  \frac{1}{m} \sum_{i=1}^m \Big[ \left (w \cdot x^{(i)} + b - y^{(i)}\right) \Big] $$
 
+<hr>
+
 The updating equation for weight will be
 
 $$w ^{new} = w^{old} - ∝ \frac{1}{m} \sum_{i=1}^m \Big[\left (w \cdot x^{(i)} + b - y^{(i)}\right) \cdot x^{(i)} \Big]$$
 
 The updating equation for bias will be
 
-$$b ^{new} = b^{old} - ∝ \frac{1}{m} \sum_{i=1}^m \Big[\left (w \cdot x^{(i)} + b - y^{(i)}\right) \Big] $$
+$$b ^{new} = b^{old} - ∝ \frac{1}{m} \sum_{i=1}^m \Big[\left (w \cdot x^{(i)} + b - y^{(i)}\right) \Big]$$
+
+<hr>
 <br>
-### Experimenting with different **$$\alpha$$** values
+
+#### Experimenting with different **$$\alpha$$** values
 
 Here are some visualizations for different alpha values. This is a simple example to illustrate the learning rate **($$\alpha$$**). So here only weights are taken and no bias value is considered in the hypothesis function. 
 
-The graph shows the plot between the parameter(weight) and the cost function. If alpha is small it takes more time to learn and if alpha is too large it can overshoot the minima and never learns.
+The graph shows the plot between the parameter(*weight*) and the cost function. If alpha is small it takes more time to learn and if alpha is too large it can overshoot the minima and never learns.
 
 <div>
     <div class="row">
@@ -432,7 +438,8 @@ The graph shows the plot between the parameter(weight) and the cost function. If
     </div>
 </div>
 <br>
-### Predicting for new data
+
+#### Predicting for new data
 
 Once we have learned our weight and bias which gives us the best fit line we can use that for future predictions.
 
@@ -446,10 +453,11 @@ Once we have learned our weight and bias which gives us the best fit line we can
         </div>
     </div>
 </div>
+<br>
 
 If we need to find the price of the house for an area of 2800, we will use the learned weights and biases for prediction.
 
-- y= weight * (2800) + bias
+$$y= weight \cdot (2800) + bias$$
 
 <div class="container">
     <div class="row">
@@ -462,25 +470,25 @@ If we need to find the price of the house for an area of 2800, we will use the l
 
 The price of the house will be around **541,941.5$**. 
 
-### Conclusion
+#### Conclusion
 
 Linear regression is the base of all machine learning algorithms and by understanding this you will learn more complex algorithms easily. The applications of linear regression ranges from 
 
-**Trend line -** Whether particular dataset (e.g. oil prices, Stock prices) have increased or decreased over a period of time.
+**Trend line -** Whether particular dataset (*e.g. oil prices, Stock prices*) have increased or decreased over a period of time.
 
 **Finance -** For analyzing the risk of investment used by the capital asset pricing model.
 
 They are also used in a wide range of fields.
 
-### What's Next
+#### What's Next
 
-In the next part we will implement linear regression from scratch in python. 
+In the next blog we will implement linear regression from scratch in python. 
 
 Thank you so much for reading, and please share this article if you found it useful :)
 
 Do you have any questions? Leave the questions in the comments section and I will do my best to answer it.
 
-### References
+#### References
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning) course by Andrew NG on coursera.
 
@@ -490,5 +498,5 @@ Do you have any questions? Leave the questions in the comments section and I wil
 
 [Reducing Loss: Optimizing Learning Rate](https://developers.google.com/machine-learning/crash-course/fitter/graph) - Machine Learning crash course from google.
 
-Interactive visualization powered by [geogebra](https://www.geogebra.org/?lang=en).
+Interactive visualization powered by [geogebra](https://www.geogebra.org/?lang=en). Download the file <a href="../assets/files/geogebra-linear-regression.ggb" target="_blank">here</a>
 

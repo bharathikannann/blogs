@@ -9,7 +9,7 @@ featured: true
 ---
 
 
-<h1 class="page-title">Webinar</h1>
+<h2 class="page-title">Webinar</h2>
 <div class="page-body">
 A webinar where I explain about the basic math concepts in ML and DL. Attended by more than 200+ students all over India and got a very good feedback.<br><br>
     <div class="embed-responsive embed-responsive-16by9">
@@ -21,182 +21,179 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
     <p id="da612fa4-57d5-4ad3-b0bb-8866262ffd29" class="">Watch in youtube - <a
             href="https://youtu.be/9wVjTK6Fv1k?t=3" target="_blank">link</a></p>
 
-    <figure class="" id="30d93745-10b8-4d7b-8132-a60d740499d6"><a href="https://youtu.be/9wVjTK6Fv1k?t=3" class="bookmark source" target="_blank">
-            <div class="bookmark-info">
-                <div class="bookmark-text">
-                    <div class="bookmark-title">Ml and DL Webinar</div>
-                    <div class="bookmark-description">Webinar on Machine Learning and Deep Learning - The math you need
-                        to get started. Organized by: ECE Department and Networking club.
-                    </div>
+<figure class="" id="30d93745-10b8-4d7b-8132-a60d740499d6"><a href="https://youtu.be/9wVjTK6Fv1k?t=3" class="bookmark source" target="_blank">
+        <div class="bookmark-info">
+            <div class="bookmark-text">
+                <div class="bookmark-title">Ml and DL Webinar</div>
+                <div class="bookmark-description">Webinar on Machine Learning and Deep Learning - The math you need
+                    to get started. Organized by: ECE Department and Networking club.
                 </div>
-                <div class="bookmark-href"><img src="https://www.youtube.com/s/desktop/0a8f585d/img/favicon.ico"
-                        class="icon bookmark-icon" />youtube</div>
-            </div><img src="../assets/images/ml-dl-webinar-photos/Screenshot (166).png" class="bookmark-image" />
-        </a></figure>
+            </div>
+            <div class="bookmark-href"><img src="https://www.youtube.com/s/desktop/0a8f585d/img/favicon.ico"
+                    class="icon bookmark-icon" />youtube</div>
+        </div><img src="../assets/images/ml-dl-webinar-photos/Screenshot (166).png" class="bookmark-image" />
+    </a></figure>
 
-        
+    
 
-    <p id="00271bcd-45d4-497b-ba1f-43aade2a4478" class=""><strong>Github repo for all the resources and a blog post for
-            future reference</strong></p>
-    <figure class="" id="e70359e8-502a-4a47-bf8c-97fa7fcbe03b"><a
-            href="https://github.com/bharathikannann/Python/tree/master/Webinar" class="bookmark source">
-            <div class="bookmark-info">
-                <div class="bookmark-text">
-                    <div class="bookmark-title">bharathikannann/Python</div>
-                    <div class="bookmark-description">Artificial intelligence (AI) is the broad science of mimicking
-                        human abilities, machine learning is a specific subset of AI that trains a machine how to learn.
-                        Machine learning is a field of study that gives computers the ability to learn without being
-                        explicitly(clearly) programmed.</div>
-                </div>
-                <div class="bookmark-href"><img src="https://github.com/favicon.ico"
-                        class="icon bookmark-icon" />bharathikannann</div>
-            </div><img src="../assets/images/ml-dl-webinar-photos/robot-img.jpg" class="bookmark-image" />
-        </a></figure>
-    <p id="e28c88bc-2060-41fc-9053-7b48d78d55a3" class="">
-        <strong>Organized by:</strong><br>
-        <strong><i>ECE Department and Networking club, Sri Eshwar College of Engineering</i></strong>, Coimbatore, Tamil Nadu.<br>
-        <strong>Resource Person</strong><br>
-        <strong><i>&nbsp;&nbsp;N Bharathi kannan</i></strong>, IV ECE.<br>
-        <strong>Staff Cordinators</strong><br>
-        <strong><i>&nbsp;&nbsp;Mr. J. Dhanasekar</i></strong>, AP/ECE,<br>
-        <strong><i>&nbsp;&nbsp;Mr.S. Deepak</i></strong>, AP/ECE.<br>
-        <strong>Student Cordinators</strong><br>
-        <strong><i>&nbsp;&nbsp;M Anish</i></strong>, IV ECE,<br>
-        <strong><i>&nbsp;&nbsp;S Mantharagiri</i></strong>, III ECE.<br>
-        College website : <a href="http://sece.ac.in/">sece.ac.in</a></p><br>
-    <h3 id="40c55321-24b2-4a23-a9ca-0ef6086f2166" class=""><strong>Table of contents (blog)</strong></h3>
-    <ul id="cb7b71c6-46df-48db-82e9-28ba2ed7660c" class="bulleted-list">
-        <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#machine-learning">Machine
-                Learning</a>
-            <ul id="6556cda3-3fcc-46f5-b434-3a8979d0f11a" class="bulleted-list">
-                <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#machine-learning-algorithms">Machine
-                        Learning Algorithms</a></li>
-            </ul>
-            <ul id="213af39d-7313-44fd-8abc-0141bb4bf355" class="bulleted-list">
-                <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#supervised-learning">Supervised
-                        Learning</a>
-                    <ul id="830f4fcf-df8c-448c-a0b9-a181f003de51" class="bulleted-list">
-                        <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#linear-regression">Linear
-                                Regression</a>
-                            <ul id="63929acf-bf3a-4fa4-b3f7-5430868dc3ec" class="bulleted-list">
-                                <li><a
-                                        href="https://github.com/bharathikannann/Python/tree/master/Webinar#hypothesis-function">Hypothesis
-                                        Function</a></li>
-                            </ul>
-                            <ul id="403d4b71-1d92-406b-b70a-98ced1de4c2e" class="bulleted-list">
-                                <li><a
-                                        href="https://github.com/bharathikannann/Python/tree/master/Webinar#cost-function">Cost
-                                        Function</a></li>
-                            </ul>
-                            <ul id="26319521-17cb-4de2-b7cd-d32ff8160baa" class="bulleted-list">
-                                <li><a
-                                        href="https://github.com/bharathikannann/Python/tree/master/Webinar#gradient-descent">Gradient
-                                        Descent</a></li>
-                            </ul>
-                            <ul id="8a4cc7f9-dacb-4abc-9f18-f8899f8ccbac" class="bulleted-list">
-                                <li><a
-                                        href="https://github.com/bharathikannann/Python/tree/master/Webinar#linear-regression-from-scratch-in-python">Linear
-                                        Regression from scratch in python</a></li>
-                            </ul>
-                            <ul id="0c7db12c-fe93-44b4-b554-0fd1868f847d" class="bulleted-list">
-                                <li><a
-                                        href="https://github.com/bharathikannann/Python/tree/master/Webinar#multiple-variables">Multiple
-                                        Variables</a></li>
-                            </ul>
-                            <ul id="fe6dc5f2-3294-4199-8b02-3d76d8e86cea" class="bulleted-list">
-                                <li><a
-                                        href="https://github.com/bharathikannann/Python/tree/master/Webinar#polynomial-regression">Polynomial
-                                        Regression</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                    <ul id="b855e2d4-e9a0-40e9-9237-4259b2040396" class="bulleted-list">
-                        <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#logistic-regression">Logistic
-                                Regression</a></li>
-                    </ul>
-                    <ul id="b4e68ae4-7d85-409d-bccd-32c0d40b2252" class="bulleted-list">
-                        <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#one-vs-all">One Vs
-                                All</a></li>
-                    </ul>
-                    <ul id="65355a53-eac1-4a90-8c7e-3a12f4dba025" class="bulleted-list">
-                        <li><a
-                                href="https://github.com/bharathikannann/Python/tree/master/Webinar#regularization">Regularization</a>
-                        </li>
-                    </ul>
-                    <ul id="30cb886b-e996-4e89-9c4c-3d0f8d0fc958" class="bulleted-list">
-                        <li><a
-                                href="https://github.com/bharathikannann/Python/tree/master/Webinar#vectorization">Vectorization</a>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-            <ul id="0e0a6735-75ae-4c9d-a243-9232fda5a1aa" class="bulleted-list">
-                <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#unsupervised-learning">Unsupervised
-                        Learning</a>
-                    <ul id="54f6fc79-7c57-4f2f-a729-aba9144e1837" class="bulleted-list">
-                        <li><a
-                                href="https://github.com/bharathikannann/Python/tree/master/Webinar#clustering">Clustering</a>
-                        </li>
-                    </ul>
-                    <ul id="32742af4-aeb7-49b6-a278-e2e3c843c36c" class="bulleted-list">
-                        <li><a
-                                href="https://github.com/bharathikannann/Python/tree/master/Webinar#application">Application</a>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-            <ul id="47e6345b-6a7d-49de-b784-94b98251c304" class="bulleted-list">
-                <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#reinforcement-learning">Reinforcement
-                        Learning</a></li>
-            </ul>
-        </li>
+<p id="00271bcd-45d4-497b-ba1f-43aade2a4478" class="">Github repo for all the resources and a blog post for
+        future reference</p>
+<figure class="" id="e70359e8-502a-4a47-bf8c-97fa7fcbe03b"><a
+        href="https://github.com/bharathikannann/Python/tree/master/Webinar" class="bookmark source">
+        <div class="bookmark-info">
+            <div class="bookmark-text">
+                <div class="bookmark-title">bharathikannann/Python</div>
+                <div class="bookmark-description">Artificial intelligence (AI) is the broad science of mimicking
+                    human abilities, machine learning is a specific subset of AI that trains a machine how to learn.
+                    Machine learning is a field of study that gives computers the ability to learn without being
+                    explicitly(clearly) programmed.</div>
+            </div>
+            <div class="bookmark-href"><img src="https://github.com/favicon.ico"
+                    class="icon bookmark-icon" />bharathikannann</div>
+        </div><img src="../assets/images/ml-dl-webinar-photos/robot-img.jpg" class="bookmark-image" />
+    </a></figure>
+<p id="e28c88bc-2060-41fc-9053-7b48d78d55a3" class="">
+    <strong>Organized by:</strong><br>
+    <strong><i>ECE Department and Networking club, Sri Eshwar College of Engineering</i></strong>, Coimbatore, Tamil Nadu.<br>
+    <strong>Resource Person</strong><br>
+    <strong><i>&nbsp;&nbsp;N Bharathi kannan</i></strong>, IV ECE.<br>
+    <strong>Staff Cordinators</strong><br>
+    <strong><i>&nbsp;&nbsp;Mr. J. Dhanasekar</i></strong>, AP/ECE,<br>
+    <strong><i>&nbsp;&nbsp;Mr.S. Deepak</i></strong>, AP/ECE.<br>
+    <strong>Student Cordinators</strong><br>
+    <strong><i>&nbsp;&nbsp;M Anish</i></strong>, IV ECE,<br>
+    <strong><i>&nbsp;&nbsp;S Mantharagiri</i></strong>, III ECE.<br>
+    College website : <a href="http://sece.ac.in/" target="_blank">sece.ac.in</a></p><br>
+<h3 id="40c55321-24b2-4a23-a9ca-0ef6086f2166" class="">Table of contents (blog)</h3>
+<ul id="cb7b71c6-46df-48db-82e9-28ba2ed7660c" class="bulleted-list">
+    <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#machine-learning">Machine
+            Learning</a>
+        <ul id="6556cda3-3fcc-46f5-b434-3a8979d0f11a" class="bulleted-list">
+            <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#machine-learning-algorithms">Machine
+                    Learning Algorithms</a></li>
+        </ul>
+        <ul id="213af39d-7313-44fd-8abc-0141bb4bf355" class="bulleted-list">
+            <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#supervised-learning">Supervised
+                    Learning</a>
+                <ul id="830f4fcf-df8c-448c-a0b9-a181f003de51" class="bulleted-list">
+                    <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#linear-regression">Linear
+                            Regression</a>
+                        <ul id="63929acf-bf3a-4fa4-b3f7-5430868dc3ec" class="bulleted-list">
+                            <li><a
+                                    href="https://github.com/bharathikannann/Python/tree/master/Webinar#hypothesis-function">Hypothesis
+                                    Function</a></li>
+                        </ul>
+                        <ul id="403d4b71-1d92-406b-b70a-98ced1de4c2e" class="bulleted-list">
+                            <li><a
+                                    href="https://github.com/bharathikannann/Python/tree/master/Webinar#cost-function">Cost
+                                    Function</a></li>
+                        </ul>
+                        <ul id="26319521-17cb-4de2-b7cd-d32ff8160baa" class="bulleted-list">
+                            <li><a
+                                    href="https://github.com/bharathikannann/Python/tree/master/Webinar#gradient-descent">Gradient
+                                    Descent</a></li>
+                        </ul>
+                        <ul id="8a4cc7f9-dacb-4abc-9f18-f8899f8ccbac" class="bulleted-list">
+                            <li><a
+                                    href="https://github.com/bharathikannann/Python/tree/master/Webinar#linear-regression-from-scratch-in-python">Linear
+                                    Regression from scratch in python</a></li>
+                        </ul>
+                        <ul id="0c7db12c-fe93-44b4-b554-0fd1868f847d" class="bulleted-list">
+                            <li><a
+                                    href="https://github.com/bharathikannann/Python/tree/master/Webinar#multiple-variables">Multiple
+                                    Variables</a></li>
+                        </ul>
+                        <ul id="fe6dc5f2-3294-4199-8b02-3d76d8e86cea" class="bulleted-list">
+                            <li><a
+                                    href="https://github.com/bharathikannann/Python/tree/master/Webinar#polynomial-regression">Polynomial
+                                    Regression</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul id="b855e2d4-e9a0-40e9-9237-4259b2040396" class="bulleted-list">
+                    <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#logistic-regression">Logistic
+                            Regression</a></li>
+                </ul>
+                <ul id="b4e68ae4-7d85-409d-bccd-32c0d40b2252" class="bulleted-list">
+                    <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#one-vs-all">One Vs
+                            All</a></li>
+                </ul>
+                <ul id="65355a53-eac1-4a90-8c7e-3a12f4dba025" class="bulleted-list">
+                    <li><a
+                            href="https://github.com/bharathikannann/Python/tree/master/Webinar#regularization">Regularization</a>
+                    </li>
+                </ul>
+                <ul id="30cb886b-e996-4e89-9c4c-3d0f8d0fc958" class="bulleted-list">
+                    <li><a
+                            href="https://github.com/bharathikannann/Python/tree/master/Webinar#vectorization">Vectorization</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <ul id="0e0a6735-75ae-4c9d-a243-9232fda5a1aa" class="bulleted-list">
+            <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#unsupervised-learning">Unsupervised
+                    Learning</a>
+                <ul id="54f6fc79-7c57-4f2f-a729-aba9144e1837" class="bulleted-list">
+                    <li><a
+                            href="https://github.com/bharathikannann/Python/tree/master/Webinar#clustering">Clustering</a>
+                    </li>
+                </ul>
+                <ul id="32742af4-aeb7-49b6-a278-e2e3c843c36c" class="bulleted-list">
+                    <li><a
+                            href="https://github.com/bharathikannann/Python/tree/master/Webinar#application">Application</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <ul id="47e6345b-6a7d-49de-b784-94b98251c304" class="bulleted-list">
+            <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#reinforcement-learning">Reinforcement
+                    Learning</a></li>
+        </ul>
+    </li>
+</ul>
+<ul id="2a3b784b-af74-4299-bc09-d7e0155e5232" class="bulleted-list">
+    <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#deep-learning">Deep Learning</a>
+        <ul id="754fd1c8-add5-4d49-abf7-beb7c7460579" class="bulleted-list">
+            <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#neural-networks">Neural
+                    Networks</a>
+                <ul id="d4420601-f68f-4939-aaf0-0a6f51028478" class="bulleted-list">
+                    <li><a
+                            href="https://github.com/bharathikannann/Python/tree/master/Webinar#neural-networks-from-scratch-in-python">Neural
+                            Networks from scratch in python</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul id="1b81a3ce-0879-4395-a9f5-bec28efe0245" class="bulleted-list">
+            <li><a
+                    href="https://github.com/bharathikannann/Python/tree/master/Webinar#convolutional-neural-networks">Convolutional
+                    Neural Networks</a></li>
+        </ul>
+        <ul id="f7aef8b0-6529-4241-aec7-bc96f165f994" class="bulleted-list">
+            <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#recurrent-neural-networks">Recurrent
+                    Neural Networks</a></li>
+        </ul>
+    </li>
+</ul>
+<p id="84f96333-75aa-4533-afda-49a79e44072b" class="">
+</p><br>
+<h3 id="58734e29-772e-4979-9c21-506c0d0580db" class="">Regression Visualization online links :</h3>
+<p id="a7d70a68-8e9b-447f-9c9b-f48b55eabd25" class="">These can we viewed without installing the
+        software
+<div class="indented">
+    <ul id="e6d74de1-531e-4304-9df3-7dcec7f86fc5" class="bulleted-list">
+        <li>Linear Regression and Polynomial Regression 2D - <a href="https://www.geogebra.org/classic/fuvr2rje">link</a></li>
     </ul>
-    <ul id="2a3b784b-af74-4299-bc09-d7e0155e5232" class="bulleted-list">
-        <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#deep-learning">Deep Learning</a>
-            <ul id="754fd1c8-add5-4d49-abf7-beb7c7460579" class="bulleted-list">
-                <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#neural-networks">Neural
-                        Networks</a>
-                    <ul id="d4420601-f68f-4939-aaf0-0a6f51028478" class="bulleted-list">
-                        <li><a
-                                href="https://github.com/bharathikannann/Python/tree/master/Webinar#neural-networks-from-scratch-in-python">Neural
-                                Networks from scratch in python</a></li>
-                    </ul>
-                </li>
-            </ul>
-            <ul id="1b81a3ce-0879-4395-a9f5-bec28efe0245" class="bulleted-list">
-                <li><a
-                        href="https://github.com/bharathikannann/Python/tree/master/Webinar#convolutional-neural-networks">Convolutional
-                        Neural Networks</a></li>
-            </ul>
-            <ul id="f7aef8b0-6529-4241-aec7-bc96f165f994" class="bulleted-list">
-                <li><a href="https://github.com/bharathikannann/Python/tree/master/Webinar#recurrent-neural-networks">Recurrent
-                        Neural Networks</a></li>
-            </ul>
-        </li>
+    <ul id="7206db9a-69a2-4156-974b-c37433992f5a" class="bulleted-list">
+       <li>Linear Regression and Polynomial Regression 3D - <a href="https://www.geogebra.org/classic/nfsdcexr">link</a> </li>
     </ul>
-    <p id="84f96333-75aa-4533-afda-49a79e44072b" class="">
-    </p><br>
-    <h3 id="58734e29-772e-4979-9c21-506c0d0580db" class=""><strong>Regression Visualization online links :</strong></h3>
-    <p id="a7d70a68-8e9b-447f-9c9b-f48b55eabd25" class=""><strong>These can we viewed without installing the
-            software</strong>
-    <div class="indented">
-        <ul id="e6d74de1-531e-4304-9df3-7dcec7f86fc5" class="bulleted-list">
-            <li><a href="https://www.geogebra.org/classic/fuvr2rje">https://www.geogebra.org/classic/fuvr2rje</a> -
-                Linear Regression and Polynomial Regression 2D</li>
-        </ul>
-        <ul id="7206db9a-69a2-4156-974b-c37433992f5a" class="bulleted-list">
-            <li><a href="https://www.geogebra.org/classic/nfsdcexr">https://www.geogebra.org/classic/nfsdcexr</a> -
-                Linear Regression and Polynomial Regression 3D</li>
-        </ul>
-        <ul id="0aa85299-1f94-4db9-92ad-31796ee7bd32" class="bulleted-list">
-            <li><a href="https://www.geogebra.org/classic/mpr6qtee">https://www.geogebra.org/classic/mpr6qtee</a> -
-                Logistic Regression 2D</li>
-        </ul>
-        <ul id="035ec1a5-6716-45a0-8722-75df84da62de" class="bulleted-list">
-            <li><a href="https://www.geogebra.org/classic/gp8anaxf">https://www.geogebra.org/classic/gp8anaxf</a> -
-                Logistic Regression 3D</li>
-        </ul>
-    </div>
+    <ul id="0aa85299-1f94-4db9-92ad-31796ee7bd32" class="bulleted-list">
+        <li>Logistic Regression 2D - <a href="https://www.geogebra.org/classic/mpr6qtee">link</a> </li>
+    </ul>
+    <ul id="035ec1a5-6716-45a0-8722-75df84da62de" class="bulleted-list">
+        <li>Logistic Regression 3D - <a href="https://www.geogebra.org/classic/gp8anaxf">link</a> </li>
+    </ul>
+</div>
+     <br>
     </p>
     <p id="2be438ef-6788-4c5f-96b9-cdbba8cb41b1" class="">
     </p><br>
@@ -232,7 +229,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
     <p id="fd80616f-36f0-41ad-834a-07b5454acbc4" class="">
     </p><br>
     <h2 id="a4f19042-99ad-4854-9e8e-d58d183eb419" class="">Important links</h2>
-    <p id="abbb5340-9e35-4a93-b697-7316e4adc45b" class=""><strong>Try experimenting with learning rate (∝)</strong></p>
+    <p id="abbb5340-9e35-4a93-b697-7316e4adc45b" class="">Try experimenting with learning rate (∝)</p>
     <figure class="" id="70b2fd9a-26f8-4a7d-94a4-e3633c8c98d5"><a
             href="https://developers.google.com/machine-learning/crash-course/fitter/graph" class="bookmark source">
             <div class="bookmark-info">
@@ -249,12 +246,12 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
                 class="bookmark-image" />
         </a></figure>
     <h3 id="22d0f3b8-1b05-4be2-9b49-9d630cec2c0a" class="">Reinforcement learning</h3>
-    <p id="5a0f59b0-942a-4bb5-ac97-1ef7029442ed" class=""><strong>Google atari breakout youtube video</strong></p>
+    <p id="5a0f59b0-942a-4bb5-ac97-1ef7029442ed" class="">Google atari breakout youtube video</p>
     <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TmPfTpjtdgg"></iframe>
     </div>
     <br>
-    <p id="c461e5d5-7685-4511-b21c-0b7ae9f6ddf8" class=""><strong>Alpha go Documentary</strong></p>
+    <p id="c461e5d5-7685-4511-b21c-0b7ae9f6ddf8" class="">Alpha go Documentary</p>
     <figure class="" id="cb7687c1-4cc5-4db6-b20b-9428c7aba7c1"><a href="https://www.youtube.com/watch?v=WXuK6gekU1Y"
             class="bookmark source">
             <div class="bookmark-info">
@@ -268,7 +265,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
                         class="icon bookmark-icon" />youtube</div>
             </div><img src="https://i.ytimg.com/vi/WXuK6gekU1Y/hqdefault.jpg" class="bookmark-image" />
         </a></figure>
-    <p id="e22e0ae1-121a-47d7-8f81-92293b55797f" class=""><strong>Multi Agent Hide and Seek game from Open AI</strong>
+    <p id="e22e0ae1-121a-47d7-8f81-92293b55797f" class="">Multi Agent Hide and Seek game from Open AI
     </p>
 
     <div class="embed-responsive embed-responsive-16by9">
@@ -308,7 +305,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
     <p id="f339066d-6ed3-4e3a-89d1-ce29c44fc470" class="">
     </p><br>
     <h3 id="19cdf523-fb90-4a7c-b120-7431197b26d0" class="">Convolutional Neural Networks</h3>
-    <p id="8c690ed1-0003-472b-86b6-c304eea41089" class=""><strong>Live demo</strong></p>
+    <p id="8c690ed1-0003-472b-86b6-c304eea41089" class="">Live demo</p>
     <figure class="" id="1e533aba-a621-4d1f-ba6f-773f54441f30"><a href="http://poloclub.github.io/cnn-explainer/"
             class="bookmark source">
             <div class="bookmark-info">
@@ -324,7 +321,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
         </a></figure>
     <p id="58b94051-dd32-4b97-a956-f1c6506ef0c7" class="">
     </p><br>
-    <h3 id="8c35210c-a282-49bd-91c5-1428c2b4d56a" class=""><strong>References</strong></h3>
+    <h3 id="8c35210c-a282-49bd-91c5-1428c2b4d56a" class="">References</h3>
     <ul id="f0895060-7c7d-4093-bdaa-8e0bc033e32c" class="bulleted-list">
         <li><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> course by Andrew NG
             (coursera)</li>
