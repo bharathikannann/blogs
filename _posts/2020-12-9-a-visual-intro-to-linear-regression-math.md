@@ -498,5 +498,5 @@ Do you have any questions? Leave the questions in the comments section and I wil
 
 [Reducing Loss: Optimizing Learning Rate](https://developers.google.com/machine-learning/crash-course/fitter/graph) - Machine Learning crash course from google.
 
-Interactive visualization powered by [geogebra](https://www.geogebra.org/?lang=en). Download the file <a href="../assets/files/geogebra-linear-regression.ggb" target="_blank">here</a>
+Interactive visualization powered by [geogebra](https://www.geogebra.org/?lang=en). Download the file <a href="../assets/files/geogebra-linear-regression.ggb" target="_blank">here.</a>
 
