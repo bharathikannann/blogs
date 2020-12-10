@@ -977,9 +977,9 @@ iframe {
 	margin-top: 0.25em;
 }
 
-@media (min-width: 600px){
+@media (max-width: 500px){
 .geogebraui{
-    height: 500;
+    height: 400px;
 }
 }
 .light-text{
