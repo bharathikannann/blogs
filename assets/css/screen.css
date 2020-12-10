@@ -976,3 +976,9 @@ iframe {
 	font-size: 0.75em;
 	margin-top: 0.25em;
 }
+
+@media (min-width: 600px){
+.geogebraui{
+    height: 500px;
+}
+}

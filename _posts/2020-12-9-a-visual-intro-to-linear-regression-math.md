@@ -8,6 +8,7 @@ description: "Linear Regression"
 featured: False
 ---
 
+
 ### A little intro to types of Machine Learning Algorithms
 
 - There are three main types of Machine learning algorithms
@@ -92,7 +93,17 @@ $$y = hypothesis(x) = weight \cdot x + bias$$
 
 A simple interactive visualization to understand what weights and biases are doing. Adjust the weight and bias slider and see what is happening to the line. 
 
-<iframe src="https://www.geogebra.org/classic/tjsneu7k?embed" width="100%" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe class="goegebraui" scrolling="yes"
+src="https://www.geogebra.org/classic/tjsneu7k?embed/smb/false"
+width="1600px"
+height="600px"
+style="border:0px;"
+showMenuBar="false" 
+showToolBar="false" 
+allowfullscreen>
+</iframe>
+
+For any issues open it in the new tab and play with it - <a href="../assets/files/linear-regression-geogebra.html">link</a>
 
 You can see that the **weight** changes the *slope* of the line and the **bias** changes the *starting point* of the line.
 
