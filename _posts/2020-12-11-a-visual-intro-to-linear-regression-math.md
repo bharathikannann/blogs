@@ -494,9 +494,9 @@ Do you have any questions? Leave the questions in the comments section and I wil
 
 [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression) - Wikipedia.
 
-[Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent) - Wikipedia.
+[Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent) - Wikipedia. 
 
-[Reducing Loss: Optimizing Learning Rate](https://developers.google.com/machine-learning/crash-course/fitter/graph) - Machine Learning crash course from google.
+[Reducing Loss: Optimizing Learning Rate](https://developers.google.com/machine-learning/crash-course/fitter/graph) - Machine Learning crash course from google.&nbsp; Animation code for optimizing learning rate adapted from [source](https://gist.github.com/peterroelants/679410641a15b715a8a36ec39388516f).
 
-Interactive visualization powered by [geogebra](https://www.geogebra.org/?lang=en). Download the file <a href="../assets/files/geogebra-linear-regression.ggb" target="_blank">here.</a>
+Interactive visualization powered by [geogebra](https://www.geogebra.org/?lang=en). Download the file <a href="../assets/files/geogebra-linear-regression.ggb" target="_blank">here</a>.
 
