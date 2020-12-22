@@ -39,7 +39,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
 <p id="00271bcd-45d4-497b-ba1f-43aade2a4478" class="">Github repo for all the resources and a blog post for
         future reference</p>
 <figure class="shadowhover hover-pointer" id="e70359e8-502a-4a47-bf8c-97fa7fcbe03b"><a
-        href="https://github.com/bharathikannann/Python/tree/master/Webinar" class="bookmark source">
+        href="https://github.com/bharathikannann/Python/tree/master/Webinar" target="_blank" class="bookmark source">
         <div class="bookmark-info">
             <div class="bookmark-text">
                 <div class="bookmark-title">bharathikannann/Python</div>
@@ -200,7 +200,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
     <h3 id="745bfd6f-6426-4feb-8440-0260ab0eaf28" class="">Linear Regression Code in Scikit-learn notebook + Exercise
     </h3>
     <figure class="shadowhover hover-pointer" id="9a5468d4-81c6-462e-947c-61f9526d1247"><a
-            href="https://github.com/bharathikannann/Python/blob/master/Webinar/LinearRegression/LinearRegression.ipynb"
+            href="https://github.com/bharathikannann/Python/blob/master/Webinar/LinearRegression/LinearRegression.ipynb" target="_blank"
             class="bookmark source">
             <div class="bookmark-info">
                 <div class="bookmark-text">
@@ -214,7 +214,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
         </a></figure>
     <h3 id="ed2cdb39-a3e9-4163-aa61-1140fcee5fd9" class="">Linear Regression Code from Scratch notebook</h3>
     <figure class="shadowhover hover-pointer" id="f216e641-b170-4caf-9c4f-4ae257d91e56"><a
-            href="https://github.com/bharathikannann/Python/blob/master/Webinar/LinearRegressionfromscratch/LinearRegressionfromscratch.ipynb"
+            href="https://github.com/bharathikannann/Python/blob/master/Webinar/LinearRegressionfromscratch/LinearRegressionfromscratch.ipynb" target="_blank"
             class="bookmark source">
             <div class="bookmark-info">
                 <div class="bookmark-text">
@@ -231,7 +231,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
     <h2 id="a4f19042-99ad-4854-9e8e-d58d183eb419" class="">Important links</h2>
     <p id="abbb5340-9e35-4a93-b697-7316e4adc45b" class="">Try experimenting with learning rate (∝)</p>
     <figure class="shadowhover hover-pointer" id="70b2fd9a-26f8-4a7d-94a4-e3633c8c98d5"><a
-            href="https://developers.google.com/machine-learning/crash-course/fitter/graph" class="bookmark source">
+            href="https://developers.google.com/machine-learning/crash-course/fitter/graph" target="_blank" class="bookmark source">
             <div class="bookmark-info">
                 <div class="bookmark-text">
                     <div class="bookmark-title">Optimizing Learning Rate</div>
@@ -252,7 +252,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
     </div>
     <br>
     <p id="c461e5d5-7685-4511-b21c-0b7ae9f6ddf8" class="">Alpha go Documentary</p>
-    <figure class="shadowhover hover-pointer" id="cb7687c1-4cc5-4db6-b20b-9428c7aba7c1"><a href="https://www.youtube.com/watch?v=WXuK6gekU1Y"
+    <figure class="shadowhover hover-pointer" id="cb7687c1-4cc5-4db6-b20b-9428c7aba7c1"><a href="https://www.youtube.com/watch?v=WXuK6gekU1Y" target="_blank"
             class="bookmark source">
             <div class="bookmark-info">
                 <div class="bookmark-text">
@@ -289,7 +289,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
         </a></figure><br>
     <h3 id="22aee38c-3d18-4dce-ac83-44ea7a7172ce" class="">Neural Networks from scratch code (bonus)</h3>
     <figure class="shadowhover hover-pointer" id="99a8b960-c85c-4310-ac9e-c0b6d4ab6bd8"><a
-            href="https://github.com/bharathikannan1311/Python/tree/master/ML/Neural%20Networks"
+            href="https://github.com/bharathikannan1311/Python/tree/master/ML/Neural%20Networks" target="_blank"
             class="bookmark source">
             <div class="bookmark-info">
                 <div class="bookmark-text">
@@ -305,7 +305,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
     </p><br>
     <h3 id="19cdf523-fb90-4a7c-b120-7431197b26d0" class="">Convolutional Neural Networks</h3>
     <p id="8c690ed1-0003-472b-86b6-c304eea41089" class="">Live demo</p>
-    <figure class="shadowhover hover-pointer" id="1e533aba-a621-4d1f-ba6f-773f54441f30"><a href="http://poloclub.github.io/cnn-explainer/"
+    <figure class="shadowhover hover-pointer" id="1e533aba-a621-4d1f-ba6f-773f54441f30"><a href="http://poloclub.github.io/cnn-explainer/" target="_blank"
             class="bookmark source">
             <div class="bookmark-info">
                 <div class="bookmark-text">
