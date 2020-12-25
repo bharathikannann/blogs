@@ -7,7 +7,7 @@ description: "Hello, Welcome to my blog."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blogs
-google_analytics: 'G-GBEKM2F0M0'
+google_analytics: 'UA-186067054-1'
 disqus: 'bharathikannann'
 #mailchimp-list: 'https://gmail.us7.list-manage.com/subscribe/post?u=3cc170768d91e4ad408c93b89&amp;id=a42a2476d7'
 include: ["_pages"]
