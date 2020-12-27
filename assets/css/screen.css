@@ -205,7 +205,7 @@ section.recent-posts {
 .post-top-meta .author-description {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-size: 0.95rem;
+    font-size: 0.8rem;
 }
 
 .toc ul {
@@ -1017,4 +1017,7 @@ iframe {
    50% { transform: rotate(10.0deg) }
    60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
   100% { transform: rotate( 0.0deg) }
+}
+.description-text{
+    opacity: 80%;
 }
