@@ -8,10 +8,10 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>I am a student living in Tamilnadu, India.
+<p>Hi <span class="wave">👋</span>, I am a student living in Tamilnadu, India.
 I am passionate about Artificial Intelligence, Machine Learning, Blockchain and its related fields. I love to learn these topics and I am sharing my knowledge through these blogs.</p>
 
-<p>Send me an email: <strong>bharathikannan1311@gmail.com</strong> if you find any errors or if you have any questions. I will be happy and I will respond to your emails as soon as possible.</p>
+<p>Send me an email: <a href="mailto:bharathikannan1311@gmail.com">bharathikannan1311@gmail.com</a> if you find any errors or if you have any questions. I will be happy and I will respond to your emails as soon as possible.</p>
 
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 <!-- <h4>Documentation</h4>
