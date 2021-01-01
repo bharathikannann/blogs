@@ -22,9 +22,10 @@ post_class: post-template
 
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
-
+                
                 <!-- Author Box -->
                 {% if page.author %}
+                <hr class="mt-0">
                 <div class="row post-top-meta mb-0">
                     <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
                         {% if author.avatar %}
@@ -38,6 +39,7 @@ post_class: post-template
                         <span class="author-description description-text">{{ author.description }}</span>
                     </div>
                 </div>
+                <hr class="mt-2 mb-0">
                 {% endif %}
 
             </div>
