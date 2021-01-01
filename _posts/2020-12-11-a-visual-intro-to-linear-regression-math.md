@@ -3,7 +3,7 @@ layout: post
 title:  "A Visual Intro to Linear Regression Math"
 author: bharathikannan
 categories: [Machine learning]
-image: assets/images/linear-regression-math/linear-regression-banner.png
+image: assets/images/linear-regression-math/linear-regression-banner.jpg
 description: "An Interactive and Visual guide to mastering linear regression math. It is one of the most popular machine learning algorithm. It's simplicity makes it a great stepping stone to learn more complex algorithms."
 featured: True
 ---
