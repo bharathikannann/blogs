@@ -536,10 +536,10 @@ ul.tags li a:hover {
 .btn.follow {
     border-color: #02B875;
     color: #1C9963;
-    padding: 3px 10px;
+    padding: 2px 8px 2px 8px;
     text-align: center;
     border-radius: 999em;
-    font-size: 0.85rem;
+    font-size: 0.6rem;
     display: inline-block;
 }
 
