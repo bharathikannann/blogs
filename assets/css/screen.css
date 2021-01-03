@@ -181,6 +181,7 @@ section.recent-posts {
     height: 40px;
     border-radius: 100%;
 }
+
 @media (min-width:960px){
     .author-thumb{
         float:right;
