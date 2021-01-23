@@ -1032,6 +1032,3 @@ iframe {
 .shadowhoverlinks:hover {
   box-shadow: 0 0 11px rgba(33,33,33,.1); 
 }
-.card-text-font-size{
-  font-size: 0.8rem;
-}
