@@ -8,7 +8,7 @@ description: "An Interactive and Visual guide to mastering linear regression mat
 featured: True
 ---
 
-#### A little intro to types of Machine Learning Algorithms
+<!-- #### A little intro to types of Machine Learning Algorithms
 
 - There are three main types of Machine learning algorithms
     - Unsupervised learning
@@ -35,7 +35,7 @@ For Example<br> Given the picture of a person, We have to predict his/her age(*C
 
 Here we are trying to map input variables into **discrete categories**.
 
-For Example<br> Given the picture of a person, We have to predict their gender(*Male/Female*).
+For Example<br> Given the picture of a person, We have to predict their gender(*Male/Female*). -->
 
 ### Linear Regression
 

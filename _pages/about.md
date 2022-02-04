@@ -8,8 +8,8 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Hi <span class="wave">👋</span>, I am a student living in Tamilnadu, India.
-I am passionate about Artificial Intelligence, Machine Learning, Blockchain and its related fields. I love to learn these topics and I am sharing my knowledge through these blogs.</p>
+<p>Hi <span class="wave">👋</span>, I am a student from Tamilnadu, India. I am currently pursuing Master's degree in Computer Science at the University of Siegen.
+I am passionate about Artificial Intelligence, Machine Learning, Blockchain, and its related fields. I love to learn these topics and I am sharing my knowledge through these blogs to educate the next generation of technology users.</p>
 
 <p>Send me an email: <a href="mailto:bharathikannan1311@gmail.com">bharathikannan1311@gmail.com</a> if you find any errors or if you have any questions. I will be happy and I will respond to your emails as soon as possible.</p>
 
