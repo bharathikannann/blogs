@@ -11,8 +11,6 @@ comments: true
 <p>Hi <span class="wave">👋</span>, I am a student from Tamilnadu, India. I am currently pursuing Master's degree in Computer Science at the University of Siegen.
 I am passionate about Artificial Intelligence, Machine Learning, Blockchain, and its related fields. I love to learn these topics and I share my knowledge through these blogs to educate the next generation of technology users.</p>
 
-<p>Send me an email: <a href="mailto:bharathikannan1311@gmail.com">bharathikannan1311@gmail.com</a> if you find any errors or if you have any questions. I will be happy and I will respond to your emails as soon as possible.</p>
-
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 <!-- <h4>Documentation</h4>
 
