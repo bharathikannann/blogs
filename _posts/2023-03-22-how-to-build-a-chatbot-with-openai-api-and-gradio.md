@@ -90,7 +90,7 @@ In this tutorial, we have shown you how to use OpenAI API with integration in Gr
 The power of large language models (LLMs) like GPT-3 is truly remarkable. They have demonstrated the ability to create chatbots and even write entire blog posts, as we have seen in this post. In fact, the entire blog post you have just read was written by an AI language model trained by OpenAI called ChatGPT.
 ---
 
-## Conclusion from the author
+## Conclusion from the [author](https://bharathikannann.github.io/)
 The entire blog post was written by ChatGPT (March 14, 2023 version). In fact, the final conclusion was also written by ChatGPT. The cover image was created by bing image creater. Only this conclusion was written by me. When I thought of writing a blog post, I thought of asking ChatGPT and it gave me the whole blog post 🤔. The power of AI is truly remarkable. Imagine few more years down the line and the incredebile things that can be built with these technologies. It's is really exciting, but also scarry at the same time. 
 
 > It's not easy to predict what the future will be like, but for sure it will be very different from what we have seen so far.
