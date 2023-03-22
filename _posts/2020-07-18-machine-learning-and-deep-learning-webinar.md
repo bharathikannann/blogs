@@ -289,7 +289,7 @@ A webinar where I explain about the basic math concepts in ML and DL. Attended b
         </a></figure><br>
     <h3 id="22aee38c-3d18-4dce-ac83-44ea7a7172ce" class="">Neural Networks from scratch code (bonus)</h3>
     <figure class="shadowhover hover-pointer" id="99a8b960-c85c-4310-ac9e-c0b6d4ab6bd8"><a
-            href="https://github.com/bharathikannan1311/Python/tree/master/ML/Neural%20Networks" target="_blank"
+            href="https://github.com/bharathikannann/Python/tree/master/ML/Neural%20Networks" target="_blank"
             class="bookmark source">
             <div class="bookmark-info">
                 <div class="bookmark-text">
