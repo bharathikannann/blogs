@@ -91,7 +91,9 @@ The power of large language models (LLMs) like GPT-3 is truly remarkable. They h
 ---
 
 ## Conclusion from the author
-The entire blog post was written by ChatGPT (March 14, 2023 version). In fact, the final conclusion was written by ChatGPT. The cover image was also created by bing image creater. Only this conclusion was written by me. When I thought of writing a blog post, I thought of asking ChatGPT and it gave me the whole blog post. The power of AI is truly remarkable. Imagine few more years down the line and the incredebile things that can be built with these technologies. It's is really exciting, but also scarry at the same time. The future is going to be very different from what we have seen so far.
+The entire blog post was written by ChatGPT (March 14, 2023 version). In fact, the final conclusion was also written by ChatGPT. The cover image was created by bing image creater. Only this conclusion was written by me. When I thought of writing a blog post, I thought of asking ChatGPT and it gave me the whole blog post 🤔. The power of AI is truly remarkable. Imagine few more years down the line and the incredebile things that can be built with these technologies. It's is really exciting, but also scarry at the same time. 
+
+> It's not easy to predict what the future will be like, but for sure it will be very different from what we have seen so far.
 
 The prompt for the blog post was: 
 
@@ -100,7 +102,7 @@ The prompt for the blog post was:
 The prompt for the final conclusion was:
 > write a final conclusion and describe how powerful LLMs are and LLMs can write a whole blog post. Say that the whole blog post was written by AI at the start
 
-For this final prompt, it gave 4 paragraphs. I chose the first one as the other paragraphs were just the same concept as the conclusion of the blog post. I just copied and pasted everything here. I didn't even change a single line for any of the paragraphs. I just added the title and the author name. I kept the author name for this blog post as ChatGPT 😉
+For the second final prompt, it gave 4 paragraphs. I chose the first one as the other paragraphs were just the same concept as explained above. I just copied and pasted everything here. I didn't even change a single line for any of the paragraphs. I just added the title and the author name. I kept the author name for this blog post as ChatGPT 😉.
 
 Tools used:
 - OpenAI ChatGPT: [link](https://chat.openai.com/chat) - to write the blog post
